@@ -1,0 +1,48 @@
+[.ego-gnus.fade-in-then-semi-out%step]
+--
+Eleveur de GNUs
+
+image::ego/The_GNU_logo.png[width="75px"]
+--
+
+[.ego-streameur.fade-in-then-semi-out%step]
+--
+Streameur
+
+image::ego/twitch.svg[]
+--
+
+[.ego-moatv.fade-in-then-semi-out%step]
+--
+Membre d'une communauté de (Retro-)Gamers
+
+image::ego/productionsdemoa.jpeg[]
+--
+
+[.ego-muzik.fade-in-then-semi-out%step]
+--
+Compositeur, arrangeur à mes heures perdues
+
+🎼 🎹 
+--
+
+[.ego-maker.fade-in-then-semi-out%step]
+--
+Maker (arduino, raspberrypi, impressions 3D)
+
+[cols="1a,1a",%autowidth,frame=none]
+|===
+|image::ego/Arduino_Logo.svg[width="100px"] 
+|image::ego/Raspberry_Pi_logo.svg[width="100px"]
+|===
+--
+
+[.ego-webtv.fade-in-then-semi-out%step]
+--
+Projet de création d'une WebTV
+
+image::ego/codetv.png[width="150px"]
+--
+
+[.ego-politik.fade-in-then-semi-out%step]
+Un peu de politique aussi
