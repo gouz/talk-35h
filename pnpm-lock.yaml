@@ -1,10 +1,10 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@asciidoctor/core': ^2.0.0-rc.1
+  '@asciidoctor/core': ^2.2.6
   '@asciidoctor/reveal.js': 5.0.0-rc.1
   asciidoctor: ^2.2.6
-  decktape: ^3.4.1
+  decktape: ^3.5.0
   dotenv: ^16.0.3
   node-scp: ^0.0.21
   reveal-notes-server: ^0.1.0
@@ -62,8 +62,8 @@ packages:
       pako: 1.0.11
     dev: false
 
-  /@types/node/18.11.17:
-    resolution: {integrity: sha512-HJSUJmni4BeDHhfzn6nF0sVmd1SMezP7/4F0Lq+aXzmp2xm9O7WXrUtHW/CHlYVtZUbByEvWidHqRtcJXGF2Ng==}
+  /@types/node/18.11.18:
+    resolution: {integrity: sha512-DHQpWGjyQKSHj3ebjFI/wRKcqQcdR+MoFBygntYOZytCqNfkd2ZC4ARDJ2DQqhjH5p85Nnd3jhUJIXrszFX/JA==}
     dev: false
     optional: true
 
@@ -71,7 +71,7 @@ packages:
     resolution: {integrity: sha512-Cn6WYCm0tXv8p6k+A8PvbDG763EDpBoTzHdA+Q/MF6H3sapGjCm9NzoaJncJS9tUKSuCoDs9XHxYYsQDgxR6kw==}
     requiresBuild: true
     dependencies:
-      '@types/node': 18.11.17
+      '@types/node': 18.11.18
     dev: false
     optional: true
 
