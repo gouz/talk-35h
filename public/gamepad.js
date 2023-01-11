@@ -1,7 +1,7 @@
 function gamepad() {
   window.addEventListener("gamepadconnected", function () {
     // console.log("connected");
-    setInterval(gamepadTrigger, 300);
+    setInterval(gamepadTrigger, 500);
   });
 }
 
