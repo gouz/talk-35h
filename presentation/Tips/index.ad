@@ -14,8 +14,8 @@ include::_async.ad[]
 
 include::_routines.ad[]
 
-include::_optims.ad[]
-
 include::_priorities.ad[]
+
+include::_optims.ad[]
 
 include::_pros_cons.ad[]
