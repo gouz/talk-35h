@@ -34,6 +34,7 @@ function gamepadTrigger() {
         else if (0 == index) Reveal.prev(); // B
         else if (6 == index) Reveal.next(); // L2
         else if (7 == index) Reveal.prev(); // R2
+        else if (8 == index) window.zoom(); // select
       }
     }
   }
