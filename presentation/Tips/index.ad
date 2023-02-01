@@ -12,11 +12,11 @@ include::_rainbow_calendar.ad[]
 
 include::_async.ad[]
 
-include::_routines.ad[]
-
 include::_priorities.ad[]
 
 include::_optims.ad[]
+
+include::_routines.ad[]
 
 include::_imprevus.ad[]
 

@@ -44,11 +44,18 @@
     background-color: rgba(25, 16, 96, 0.85);
 }
 
+.colored-wrapper {
+    margin: 0 auto;
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 5px;
+    padding: 0 20px;
+}
 
 .colored {
     background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .fragment {
