@@ -1,0 +1,25 @@
+:custom_css: assets/custom.css
+
+# Comment gérer des journées de 35h ?
+
+_Comment être chef d'orchestre m'a permis de hacker mon cerveau ?_
+
+!image(assets/technozaure.svg | width="20%")
+
+!include(Mentors/main.tfs)
+
+!include(Ego/main.tfs)
+
+!include(Origins/main.tfs)
+
+!include(Chef/main.tfs)
+
+!include(Tips/main.tfs)
+
+## 🫶
+
+Merci pour votre attention
+
+*https://gouz.dev*
+
+des questions ?
