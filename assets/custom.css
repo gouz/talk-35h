@@ -1,182 +1,188 @@
 @font-face {
-    font-family: "League Gothic";
-    src: local("League Gothic"),
-    url('LeagueGothic_SemiCondensed-Regular.ttf')  format('truetype');;
-  }
-
-:root {
-    --tf-link-color: rgb(37, 186, 146);
-    --tf-heading1-size: 5em;
-    --tf-heading2-size: 3em;
+  font-family: "League Gothic";
+  src: local("League Gothic"),
+    url("LeagueGothic_SemiCondensed-Regular.ttf") format("truetype");
 }
 
-h1, h2, h3 {
-    font-family: 'League Gothic', Impact, sans-serif;
-    text-transform: uppercase;
+:root {
+  --tf-heading1-size: 5em;
+  --tf-heading2-size: 3em;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "League Gothic", Impact, sans-serif;
+  text-transform: uppercase;
 }
 
 h1 {
-    width: 70%;
-}
-
-section b {
-    color: var(--tf-link-color);
+  width: 70%;
 }
 
 main {
-    background-image: url(./lucas-alexander-njaQKSM365I-unsplash.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-image: url(./lucas-alexander-njaQKSM365I-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .🎞️::before {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    z-index: -1;
-    background-color: rgba(18, 18, 14, 0.70);
-    content: "";
-    transition: background-color 500ms linear;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  background-color: rgba(18, 18, 14, 0.7);
+  content: "";
+  transition: background-color 500ms linear;
 }
 
 .color-1::before {
-    background-color: rgba(107, 18, 18, 0.85);
+  background-color: rgba(107, 18, 18, 0.85);
 }
 
 .color-2::before {
-    background-color: rgba(17, 98, 104, 0.85);
+  background-color: rgba(17, 98, 104, 0.85);
 }
 
 .color-3::before {
-    background-color: rgba(47, 96, 19, 0.85);
+  background-color: rgba(47, 96, 19, 0.85);
 }
 
 .color-4::before {
-    background-color: rgba(25, 16, 96, 0.85);
+  background-color: rgba(25, 16, 96, 0.85);
 }
 
 .colored-wrapper {
-    margin: 0 auto;
-    display: inline-block;
-    background: rgba(255, 255, 255, 0.5);
-    border-radius: 5px;
-    padding: 0 20px;
+  margin: 0 auto;
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 5px;
+  padding: 0 20px;
 }
 
 .colored {
-    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin: 10px;
-    font-size: 50px;
-    font-weight: bold;
+  background-image: linear-gradient(
+    to left,
+    violet,
+    indigo,
+    blue,
+    green,
+    yellow,
+    orange,
+    red
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 10px;
+  font-size: 50px;
+  font-weight: bold;
 }
 
 .fragment-wrapper {
-    width: 70%;
-    height: 80%;
-    position: relative;
+  width: 70%;
+  height: 80%;
+  position: relative;
 }
 
 .fragment {
-    position: absolute;
-    padding: 2rem;
-    border-radius: 1rem;
-    background-color: white;
-    color: black;
-    font-size: 70%;
-    text-align: center;;
-    opacity: 0.1;
+  position: absolute;
+  padding: 2rem;
+  border-radius: 1rem;
+  background-color: white;
+  color: black;
+  font-size: 70%;
+  text-align: center;
+  opacity: 0.3;
 }
 
 .fragment:last-child {
-    opacity: 1;
+  opacity: 1;
 }
 
 .no-transition {
-    transition: none;
+  transition: none;
 }
 
 .ego-zenika {
-    top: 30rem;
-    left: 3rem;
+  top: 30rem;
+  left: 3rem;
 }
 
 .ego-amf {
-    top: 8rem;
-    left: 1rem;
+  top: 8rem;
+  left: 1rem;
 }
 
-.ego-devin {    
-    top: 2rem;
-    left: 2rem;
+.ego-devin {
+  top: 2rem;
+  left: 2rem;
 }
 
 .ego-panoch {
-    top: 3rem;
-    left: 3rem;
+  top: 3rem;
+  left: 3rem;
 }
 
 .ego-gnus {
-    top: 8rem;
-    left: 0;
+  top: 8rem;
+  left: 0;
 }
 
 .ego-streameur {
-    top: 5rem;
-    left: 50rem;
+  top: 5rem;
+  left: 50rem;
 }
 
 .ego-moatv {
-    top: 6rem;
-    left: 6rem;
+  top: 6rem;
+  left: 6rem;
 }
 
 .ego-muzik {
-    top: 20rem;
-    left: 7rem;
+  top: 20rem;
+  left: 7rem;
 }
 
 .ego-maker {
-    top: 8rem;
-    left: 8rem;
+  top: 8rem;
+  left: 8rem;
 }
 
 .ego-webtv {
-    top: 9rem;
-    left: 9rem;
+  top: 9rem;
+  left: 9rem;
 }
 
 .ego-politik {
-    top: 30rem;
-    left: 40rem;
+  top: 30rem;
+  left: 40rem;
 }
 
 .quote {
-    padding: 0 50px;
-    border-radius: 10px;
-    font-style: italic;
-    background: rgba(255, 255, 255, 0.05);
-    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);
+  padding: 0 50px;
+  border-radius: 10px;
+  font-style: italic;
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);
 }
 
 .columns {
-    display: flex;
-    flex-direction: row;
-    align-items: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
 }
 
 .column {
-    width: 50%;
-    text-align: center;
+  width: 50%;
+  text-align: center;
 }
 
 .green {
-    color: greenyellow;
+  color: greenyellow;
 }
 
 .red {
-    color: red;
+  color: red;
 }
