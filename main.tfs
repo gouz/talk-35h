@@ -1,5 +1,9 @@
 :custom_css: assets/custom.css
 
+:custom_js: assets/custom.js
+
+:custom_sv_js: assets/customsv.js
+
 # Comment gérer des journées de 35h ?
 
 _Comment être chef d'orchestre m'a permis de hacker mon cerveau ?_
