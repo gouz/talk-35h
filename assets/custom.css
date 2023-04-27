@@ -4,9 +4,21 @@
     url("LeagueGothic_SemiCondensed-Regular.ttf") format("truetype");
 }
 
+@font-face {
+  font-family: "Lato";
+  src: local("Lato"), url("Lato-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "LatoItalic";
+  src: local("Lato"), url("Lato-Italic.ttf") format("truetype");
+}
+
 :root {
   --tf-heading1-size: 5em;
   --tf-heading2-size: 3em;
+  --tf-text-size: 3em;
+  font-family: "Lato", sans-serif;
 }
 
 h1,
@@ -18,6 +30,16 @@ h3 {
 
 h1 {
   width: 70%;
+}
+
+p,
+li {
+  margin: 0.5em auto;
+}
+
+em,
+i {
+  font-family: "LatoItalic", sans-serif;
 }
 
 main {
@@ -166,6 +188,10 @@ main {
   font-style: italic;
   background: rgba(255, 255, 255, 0.05);
   box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);
+  font-family: "LatoItalic", sans-serif;
+  width: 45%;
+  text-align: center;
+  line-height: 1.4em;
 }
 
 .columns {

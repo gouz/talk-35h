@@ -28,9 +28,8 @@ const gamepad = () => {
             else if (15 == index)
               window.talkflow.io.send(JSON.stringify({ action: "next" })); // ->
             else if (14 == index)
-              window.talkflow.io.send(
-                JSON.stringify({ action: "previous" })
-              ); // <-
+              window.talkflow.io.send(JSON.stringify({ action: "previous" }));
+            // <-
             else if (6 == index)
               window.talkflow.io.send(JSON.stringify({ action: "next" })); // L2
             else if (7 == index)
@@ -38,7 +37,7 @@ const gamepad = () => {
           }
         }
       }
-    }, 300);
+    }, 500);
   });
 };
 
