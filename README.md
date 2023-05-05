@@ -25,4 +25,4 @@ Astuces pour s'en sortir
 
 J'ai déjà fait quelques talks dans le passé dans une communauté appellée WebEnVert (techs (Lumen, Gulp), et non-techs (Kanban et Trello)).
 
-Ce talk a donné à TNT23, VTT, confs internes, Camping des Speakers
+Ce talk a été donné à TNT23, VTT, confs internes, Camping des Speakers
