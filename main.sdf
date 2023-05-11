@@ -8,15 +8,15 @@ _Comment être chef d'orchestre m'a permis de hacker mon cerveau ?_
 
 !image(assets/camping.png | width="20%")
 
-!include(Mentors/main.tfs)
+!include(Mentors/main.sdf)
 
-!include(Ego/main.tfs)
+!include(Ego/main.sdf)
 
-!include(Origins/main.tfs)
+!include(Origins/main.sdf)
 
-!include(Chef/main.tfs)
+!include(Chef/main.sdf)
 
-!include(Tips/main.tfs)
+!include(Tips/main.sdf)
 
 ## 🫶
 
