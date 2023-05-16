@@ -1,6 +1,7 @@
-:custom_css: assets/custom.css
-
-:custom_sv_js: assets/customsv.js
+/::
+custom_css: assets/custom.css
+custom_sv_js: assets/customsv.js
+::/
 
 # Comment gérer des journées de 35h ?
 
