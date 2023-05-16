@@ -1,12 +1,17 @@
-:custom_css: assets/custom.css
-
-:custom_sv_js: assets/customsv.js
+/::
+custom_css: assets/custom.css
+custom_sv_js: assets/customsv.js
+::/
 
 # Comment gérer des journées de 35h ?
 
 _Comment être chef d'orchestre m'a permis de hacker mon cerveau ?_
 
-!image(assets/webenvert.png | width="20%")
+/*
+Une personne bien organisée a sa vie réglée comme du papier à musique
+*/
+
+!image(assets/webenvert.png | width="10%")
 
 !include(Mentors/main.sdf)
 
