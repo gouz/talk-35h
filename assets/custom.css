@@ -15,9 +15,9 @@
 }
 
 :root {
-  --tf-heading1-size: 5em;
-  --tf-heading2-size: 3em;
-  --tf-text-size: 3em;
+  --sd-heading1-size: 5em;
+  --sd-heading2-size: 3em;
+  --sd-text-size: 3em;
   font-family: "Lato", sans-serif;
 }
 
@@ -37,8 +37,7 @@ li {
   margin: 0.5em auto;
 }
 
-em,
-i {
+.i {
   font-family: "LatoItalic", sans-serif;
 }
 

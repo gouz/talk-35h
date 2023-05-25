@@ -1,0 +1,36 @@
+/::
+custom_css: assets/custom.css
+custom_sv_js: assets/customsv.js
+::/
+
+# Comment gérer des journées de 35h ?
+
+_Comment être chef d'orchestre m'a permis de hacker mon cerveau ?_
+
+/*
+Une personne bien organisée a sa vie réglée comme du papier à musique
+*/
+
+!image(assets/camping.png | width="20%")
+
+!include(Mentors/main.sdf)
+
+!include(Ego/main.sdf)
+
+!include(Origins/main.sdf)
+
+!include(Chef/main.sdf)
+
+!include(Tips/main.sdf)
+
+## 🫶
+
+Merci pour votre attention
+
+https://gouz.dev
+
+des questions ?
+
+## Des feedbacks, c'est important
+
+!image(assets/qrcode.png | width="30%")

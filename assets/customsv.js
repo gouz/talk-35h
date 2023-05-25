@@ -26,14 +26,14 @@ const gamepad = () => {
             else if (13 == index) {
             } // v
             else if (15 == index)
-              window.talkflow.io.send(JSON.stringify({ action: "next" })); // ->
+              window.slidesk.io.send(JSON.stringify({ action: "next" })); // ->
             else if (14 == index)
-              window.talkflow.io.send(JSON.stringify({ action: "previous" }));
+              window.slidesk.io.send(JSON.stringify({ action: "previous" }));
             // <-
             else if (6 == index)
-              window.talkflow.io.send(JSON.stringify({ action: "next" })); // L2
+              window.slidesk.io.send(JSON.stringify({ action: "next" })); // L2
             else if (7 == index)
-              window.talkflow.io.send(JSON.stringify({ action: "previous" })); // R2
+              window.slidesk.io.send(JSON.stringify({ action: "previous" })); // R2
           }
         }
       }
