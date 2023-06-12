@@ -11,7 +11,7 @@ _Comment être chef d'orchestre m'a permis de hacker mon cerveau ?_
 Une personne bien organisée a sa vie réglée comme du papier à musique
 */
 
-!image(assets/camping.png | width="20%")
+!image(assets/clermontech.png | width="20%" style="border-radius: 100%")
 
 !include(Mentors/main.sdf)
 
@@ -30,7 +30,3 @@ Merci pour votre attention
 https://gouz.dev
 
 des questions ?
-
-## Des feedbacks, c'est important
-
-!image(assets/qrcode.png | width="30%")
