@@ -17,8 +17,6 @@ Une personne bien organisée a sa vie réglée comme du papier à musique
 
 !include(Ego/main.sdf)
 
-!include(Origins/main.sdf)
-
 !include(Chef/main.sdf)
 
 !include(Tips/main.sdf)
@@ -30,3 +28,11 @@ Merci pour votre attention
 https://gouz.dev
 
 des questions ?
+
+## Des feedbacks
+
+<div style="background: white; padding: 10px 20px">
+
+!image(assets/feedback.png)
+
+</div>
