@@ -5,13 +5,13 @@ custom_sv_js: assets/customsv.js
 
 # Comment gérer des journées de 35h ?
 
-_Comment être chef d'orchestre m'a permis de hacker mon cerveau ?_
+__Comment être chef d'orchestre m'a permis de hacker mon cerveau ?__
 
 /*
 Une personne bien organisée a sa vie réglée comme du papier à musique
 */
 
-!image(assets/clermontech.png | width="20%" style="border-radius: 100%")
+!image(assets/clermontech.png,, 20,, border-radius: 100%)
 
 !include(Mentors/main.sdf)
 

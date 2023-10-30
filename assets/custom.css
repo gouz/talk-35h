@@ -41,13 +41,13 @@ li {
   font-family: "LatoItalic", sans-serif;
 }
 
-main {
+.sd-slide {
   background-image: url(./lucas-alexander-njaQKSM365I-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-.🎞️::before {
+.sd-slide::before {
   position: absolute;
   top: 0;
   bottom: 0;

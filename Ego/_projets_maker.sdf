@@ -4,11 +4,11 @@
 <tr>
 <td>
 
-!image(assets/ego/ArduinoLogo.svg | width="100px") 
+!image(assets/ego/ArduinoLogo.svg,, 10) 
 </td>
 <td>
 
-!image(assets/ego/Raspberry_Pi_logo.svg | width="100px") 
+!image(assets/ego/Raspberry_Pi_logo.svg,, 10) 
 </td>
 </tr>
 </table>
